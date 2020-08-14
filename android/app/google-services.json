@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "125313683011",
+    "firebase_url": "https://nagoras-c4655.firebaseio.com",
+    "project_id": "nagoras-c4655",
+    "storage_bucket": "nagoras-c4655.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125313683011:android:6fd830ac89ad3e04838ef6",
+        "android_client_info": {
+          "package_name": "com.nagorasproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125313683011-9nvtuan75271qtqpc62rv1lnt21ar2rc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5r21_DX47_jOmASZIOS72DKLbG46S-Sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125313683011-9nvtuan75271qtqpc62rv1lnt21ar2rc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
